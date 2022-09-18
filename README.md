@@ -113,16 +113,6 @@ At the end of the semester when you submit your final project, I also want a sho
 The following is a tentative schedule of topics I am going to cover. I may go faster or slower depending on the week. I may even add new subjects, or even drop subjects depending on requests and participation.  T
 he quizzes will be given during the first 30 minutes of the allotted day, and I will do the lecture afterwards.
 
-| Assessment                 | Deadline |
-|----------------------------|----------|
-| **Github link**            | Sep 26   |
-| Homework 1                 | Oct 10   |
-| Homework 2                 | Oct 31   |
-| **Final Project Proposal** | Nov 14   |
-| Homework 3                 | Nov 21   |
-| Homework 4                 | Dec 5    |
-| **Final Project**          | Dec 30   |
-
 | **Week** | **Subject**                                                                                  |
 |----------|----------------------------------------------------------------------------------------------|
 | Sep 19   | Data Science, Machine Learning, Statistics, Computer Science: Similarities and Differences.  |
