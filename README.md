@@ -11,16 +11,9 @@ This is a course on the mathematical foundations of fundamental machine learning
 
 ## Books
 
-+---------------------+--------------------------------------+
-| **T. Hastie,**      |  The Elements of                     |
-| **R. Tibshirani,**  |  Statistical Learning                |
-| **J. Friedman**     |  (Available on the web)              |
-+---------------------+--------------------------------------+
-| **C.M. Bishop**     | Pattern Recognition and              |
-|                     | Machine Learning                     |
-+---------------------+--------------------------------------+
-| **E. Alpaydin**     | Machine Learning                     |
-+---------------------+--------------------------------------+
+* T. Hastie, R. Tibshirani, and J. Friedman.  *The Elements of Statistical Learning.* (Available on the web)
+* C.M. Bishop. *Pattern Recognition and Machine Learning.*
+* E. Alpaydin. *Machine Learning.*
 
 ## Other resources
 
@@ -74,26 +67,87 @@ I receive approximately 50 e-mails per day. So, if you need to contact me, use t
 
 # Quizzes and Exams
 
-I will give 4 homework sets published on [course github page]()
+Your performance is going to be judged via 4 homework assignments posted on the [course github page](https://github.com/kaygun/2022-Fall-381E) and one final project that you need to write from scratch.  Each home
+work is 15 points, and the final project is worth 40 points.  Your total assessment for the course will be evaluated as follows:
 
-+------------------+------------------------------+
-| 4 Homeworks      |  15\% each (60\% in total)   |
-+------------------+------------------------------+
-| Final Project    |  40\%                        |
-+------------------+------------------------------+
+If you miss any 2 of the homeworks, or if your total from homeworks is less than 35% you'll get a VF. If your final is less than 25%, or your total is less than 35% you'll receive an F. Note that the conditions f
+or receiving a VF are both necessary and sufficient, while the conditions for receiving an F are only sufficient. This means you may still get an F with a higher score than 35% depending on the distribution of th
+e scores.
 
-## Homework Schedule
+| Assessment                 | Deadline |
+|----------------------------|----------|
+| **Github link**            | Sep 26   |
+| Homework 1                 | Oct 3    |
+| Homework 2                 | Oct 24   |
+| **Final Project Proposal** | Nov 7    |
+| Homework 3                 | Nov 21   |
+| Homework 4                 | Dec 5    |
+| **Final Project**          | Dec 30   |
 
-| **Homework** | **Given on** | **Collected on** |
-|--------------|--------------|------------------|
-|  Homework 1  | September 28 | October 5     |
-|  Homework 2  | October 5    | October 12    |
-|  Homework 3  | October 19   | October 26    |
-|  Homework 4  | November 16  | November 23   |
-|  Homework 5  | December 7   | December 14   |
-|  Homework 6  | December 21  | December 28   |
+There is no make-up for the homeworks. If you miss any of the homework deadline because of an emergency, do contact me to make an arrangement as soon as you can.
 
+## Homeworks
 
-# Tentative Course Plan
+For the homeworks, you are going to need to open a [GitHub](https://github.com) account and create a repository for this class.  I am going to pull your howeworks and final project from your GitHub repositories a
+t 11:59PM of each deadline date. You must send the link for the repository to my e-mail address with the subject ``MAT381E GitHub Link'' by Feb 28. The message should contain your full name, student number and th
+e github link.  If you do not follow these instructions, I will deduct upto 15 points from your final grade. 
 
+I am going to post the homework assignments on the [course github page](https://github.com/kaygun/2022-Fall-381E), you'll need to fill in the answers and post it on your own github account by the deadline.
+
+## Final Project
+
+The final project is worth 40 points and will be evaluated on your final project notebook. You may work with a team, but no larger than 3 students. You must open a separate repository with your team and submit th
+e link via e-mail with the subject ``MATH381E Final Project Link'' by April 11th. In that proposal git repository, put a jupyter notebook with
+
+* The title of the project
+* The list of team members (names and student numbers)
+* Project summary 
+
+The project summary must contain the description of the data set you are going to work with, what you want to do with it, and a clear plan how you are going to accomplish your goals.  I will grade your proposals 
+(15 points) and might make adjustments on your data set, your hypothesis and your approach. 
+
+At the end of the semester when you submit your final project, I also want a short description of who did what for the final project as a supplement. 
+
+# Weekly Course Plan
+
+The following is a tentative schedule of topics I am going to cover. I may go faster or slower depending on the week. I may even add new subjects, or even drop subjects depending on requests and participation.  T
+he quizzes will be given during the first 30 minutes of the allotted day, and I will do the lecture afterwards.
+
+| Assessment                 | Deadline |
+|----------------------------|----------|
+| **Github link**            | Sep 26   |
+| Homework 1                 | Oct 10   |
+| Homework 2                 | Oct 31   |
+| **Final Project Proposal** | Nov 14   |
+| Homework 3                 | Nov 21   |
+| Homework 4                 | Dec 5    |
+| **Final Project**          | Dec 30   |
+
+| **Week** | **Subject**                                                                                  |
+|----------|----------------------------------------------------------------------------------------------|
+| Sep 19   | Data Science, Machine Learning, Statistics, Computer Science: Similarities and Differences.  |
+| Sep 26   | **Deadline for GitHub link submission.**                                                     |
+|          | Crash Course in Python and its Library Ecosystem.                                            |
+| Oct 3    | Data types, data apis, popular data sources, and how to use them.                            |
+|          | Post HW1                                                                                     |
+| Oct 10   | **Deadline for HW1.**                                                                        |
+|          | Supervised and unsupervised learning. Cross-validation.                                      |
+| Oct 17   | Regression: OLS, regularization, lasso, elastic net.                                         |
+| Oct 24   | Logistic regression. Decision tree regression.                                               |
+|          | Post HW2                                                                                     |
+| Oct 31   | **Deadline for HW2.**                                                                        |
+|          | Clustering vs classification. k-means clustering. k-nearest neighbor classification.         |
+| Nov 7    | Hiearchical clustering. Density based clustering.                                            |
+| Nov 14   | **Deadline for final project proposals**.                                                    |
+|          | Entropy and Gini. Decision trees. Random forests.                                            |
+|          | Post HW3                                                                                     |
+| Nov 21   | **Deadline for HW3.**                                                                        |
+|          | Support Vector Machines.                                                                     |
+| Nov 28   | Dimensionality reduction. PCA, kernel PCA, LDA, NNMD.                                        |
+|          | Post HW4                                                                                     |
+| Dec 5    | **Deadline for HW4.**                                                                        |
+|          | Dimensionality reduction applications for image and natural language processing.             |
+| Dec 12   | Newton-Raphson. Gradient Descent. Perceptron.                                                |
+| Dec 19   | A taxonomy of neural networks. Applications.                                                 |
+| Dec 26   | Autoencoders.                                                                                | 
 
