@@ -65,9 +65,9 @@ I will make all of the course related announcement on İTÜ's course management 
 
 I receive approximately 50 e-mails per day. So, if you need to contact me, use the subject ``MAT388E'' in your e-mails. Spend some time structuring your e-mail with grammatically correct sentences in Turkish or in English. Be polite, direct, and concise. State what you need in the first two sentences.  Sign your e-mails with your name and student number. If I can't figure out who you are and what you need within 30 seconds of opening your message, I will delete your e-mail with no response. You are hereby warned.
 
-# Quizzes and Exams
+# Assessment
 
-Your performance is going to be judged via 4 homework assignments posted on the [course github page](https://github.com/kaygun/2022-Fall-381E) and one final project that you need to write from scratch.  Each home
+Your performance is going to be judged via 4 homework assignments posted on the [course github page](https://github.com/kaygun/2022-Fall-388E) and one final project that you need to write from scratch.  Each home
 work is 15 points, and the final project is worth 40 points.  Your total assessment for the course will be evaluated as follows:
 
 If you miss any 2 of the homeworks, or if your total from homeworks is less than 35% you'll get a VF. If your final is less than 25%, or your total is less than 35% you'll receive an F. Note that the conditions f
@@ -89,15 +89,14 @@ There is no make-up for the homeworks. If you miss any of the homework deadline 
 ## Homeworks
 
 For the homeworks, you are going to need to open a [GitHub](https://github.com) account and create a repository for this class.  I am going to pull your howeworks and final project from your GitHub repositories a
-t 11:59PM of each deadline date. You must send the link for the repository to my e-mail address with the subject ``MAT381E GitHub Link'' by Feb 28. The message should contain your full name, student number and th
-e github link.  If you do not follow these instructions, I will deduct upto 15 points from your final grade. 
+t 11:59PM of each deadline date. You must open a private github repository and share it with my hotmail address: atabey_kaygun@hotmail.com. Your deadline is September 26, 11:59PM. If you do not follow these instructions, I will deduct upto 15 points from your final grade. 
 
-I am going to post the homework assignments on the [course github page](https://github.com/kaygun/2022-Fall-381E), you'll need to fill in the answers and post it on your own github account by the deadline.
+I am going to post the homework assignments on the [course github page](https://github.com/kaygun/2022-Fall-388E), you'll need to fill in the answers and post it on your own github account by the deadline.
 
 ## Final Project
 
 The final project is worth 40 points and will be evaluated on your final project notebook. You may work with a team, but no larger than 3 students. You must open a separate repository with your team and submit th
-e link via e-mail with the subject ``MATH381E Final Project Link'' by April 11th. In that proposal git repository, put a jupyter notebook with
+e link via e-mail with the subject ``MATH388E Final Project Link'' by April 11th. In that proposal git repository, put a jupyter notebook with
 
 * The title of the project
 * The list of team members (names and student numbers)
