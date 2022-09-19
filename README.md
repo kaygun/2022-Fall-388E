@@ -109,8 +109,7 @@ At the end of the semester when you submit your final project, I also want a sho
 
 # Weekly Course Plan
 
-The following is a tentative schedule of topics I am going to cover. I may go faster or slower depending on the week. I may even add new subjects, or even drop subjects depending on requests and participation.  T
-he quizzes will be given during the first 30 minutes of the allotted day, and I will do the lecture afterwards.
+The following is a tentative schedule of topics I am going to cover. I may go faster or slower depending on the week. I may even add new subjects, or even drop subjects depending on requests and participation.
 
 | **Week** | **Subject**                                                                                  |
 |----------|----------------------------------------------------------------------------------------------|
