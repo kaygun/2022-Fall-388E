@@ -1,12 +1,12 @@
 # Data Analysis for Fundamental Sciences (Fall 2022, MAT388E)
 
 * Atabey Kaygun [(kaygun\@itu.edu.tr)](mailto:kaygun@itu.edu.tr)
-* Lectures: Mondays 14:00-17:00 
+* Lectures: Mondays 14:30-17:30 (OLS3)
 
 
 ## Course description
 
-This is a course on the mathematical foundations of fundamental machine learning algorithms.
+Data science is a broad interdisciplinary field. It lies in the intersection of mathematics, statistics, machine learning, and computer science and use their methods and tools to extract information and insight from data. This is a course on the mathematical foundations of standard statistical and machine learning models used in the field. The class aims to introduce students majoring in fundamental sciences to effectively use and deploy these algorithms in applications.
 
 
 ## Books
