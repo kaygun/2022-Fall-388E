@@ -90,6 +90,7 @@ There is no make-up for the homeworks. If you miss any of the homework deadline 
 For the homeworks, you are going to need to open a [GitHub](https://github.com) account and create a repository for this class.  I am going to pull your howeworks and final project from your GitHub repositories a
 t 11:59PM of each deadline date. You must open a private github repository and share it with my hotmail address: atabey_kaygun@hotmail.com. Then send my itu address (kaygun@itu.edu.tr) your name, student number and your private github repository link. Your deadline is September 26, 11:59PM. If you do not follow these instructions, I will deduct upto 15 points from your final grade. 
 
+
 I am going to post the homework assignments on the [course github page](https://github.com/kaygun/2022-Fall-388E), you'll need to fill in the answers and post it on your own github account by the deadline.
 
 ## Final Project
