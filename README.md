@@ -70,8 +70,7 @@ I receive approximately 50 e-mails per day. So, if you need to contact me, use t
 Your performance is going to be judged via 4 homework assignments posted on the [course github page](https://github.com/kaygun/2022-Fall-388E) and one final project that you need to write from scratch.  Each home
 work is 15 points, and the final project is worth 40 points.  Your total assessment for the course will be evaluated as follows:
 
-If you miss any 2 of the homeworks, or if your total from homeworks is less than 35% you'll get a VF. If your final is less than 25%, or your total is less than 35% you'll receive an F. Note that the conditions f
-or receiving a VF are both necessary and sufficient, while the conditions for receiving an F are only sufficient. This means you may still get an F with a higher score than 35% depending on the distribution of th
+If you receive 0 (missing HWs are graded as 0) any 2 of the homeworks, or if your total from homeworks is less than 35% you'll get a VF. If your final is less than 25%, or your total is less than 35% you'll receive an F. Note that the conditions for receiving a VF are both necessary and sufficient, while the conditions for receiving an F are only sufficient. This means you may still get an F with a higher score than 35% depending on the distribution of th
 e scores.
 
 | Assessment                 | Deadline |
@@ -106,6 +105,10 @@ The project summary must contain the description of the data set you are going t
 (15 points) and might make adjustments on your data set, your hypothesis and your approach. 
 
 At the end of the semester when you submit your final project, I also want a short description of who did what for the final project as a supplement. 
+
+## Cheating
+
+Passing someone else's code or text as your own is cheating, or worse yet, theft. Copying code with variable names changed is another lazy form of cheating. Depending on severity of the situation, I may even report you to the university. In short, don't do it.
 
 # Weekly Course Plan
 
