@@ -105,9 +105,17 @@ The project summary must contain the description of the data set you are going t
 
 At the end of the semester when you submit your final project, I also want a short description of who did what for the final project as a supplement. 
 
+### Final Exam
+
+By regulations I must give a final exam. But in the exam I will only ask you explain your final project.
+
 ## Cheating
 
 Passing someone else's code or text as your own is cheating, or worse yet, theft. Copying code with variable names changed is another lazy form of cheating. Depending on severity of the situation, I may even report you to the university. In short, don't do it.
+
+## Attendance 
+
+I will collect a written attendance in each lecture. I will use the attendance records for those students that are **edge cases** in their grades. (Push them up or down.)
 
 # Weekly Course Plan
 
