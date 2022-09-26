@@ -85,6 +85,10 @@ e scores.
 
 There is no make-up for the homeworks. If you miss any of the homework deadline because of an emergency, do contact me to make an arrangement as soon as you can.
 
+## Attendance 
+
+I will collect a written attendance in each lecture. I will use the attendance records for those students that are **edge cases** in their grades. (Push them up or down.)
+
 ## Homeworks
 
 For the homeworks, you are going to need to open a [GitHub](https://github.com) account and create a repository for this class.  I am going to pull your howeworks and final project from your GitHub repositories at 11:59PM of each deadline date. You must open a private github repository and share it with my hotmail address: atabey_kaygun@hotmail.com. Then send my itu address (kaygun@itu.edu.tr) your name, student number and your private github repository link. Your deadline is September 26, 11:59PM. If you do not follow these instructions, I will deduct upto 15 points from your final grade. 
@@ -112,10 +116,6 @@ By regulations I must give a final exam. But in the exam I will only ask you exp
 ## Cheating
 
 Passing someone else's code or text as your own is cheating, or worse yet, theft. Copying code with variable names changed is another lazy form of cheating. Depending on severity of the situation, I may even report you to the university. In short, don't do it.
-
-## Attendance 
-
-I will collect a written attendance in each lecture. I will use the attendance records for those students that are **edge cases** in their grades. (Push them up or down.)
 
 # Weekly Course Plan
 
