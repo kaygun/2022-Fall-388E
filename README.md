@@ -130,11 +130,11 @@ The following is a tentative schedule of topics I am going to cover. I may go fa
 |          | Post HW1                                                                                     |
 | Oct 10   | **Deadline for HW1.**                                                                        |
 |          | Supervised and unsupervised learning. Cross-validation.                                      |
+|          | Clustering vs classification. k-means clustering. k-nearest neighbor classification.         |
 | Oct 17   | Regression: OLS, regularization, lasso, elastic net.                                         |
 | Oct 24   | Logistic regression. Decision tree regression.                                               |
 |          | Post HW2                                                                                     |
 | Oct 31   | **Deadline for HW2.**                                                                        |
-|          | Clustering vs classification. k-means clustering. k-nearest neighbor classification.         |
 | Nov 7    | Hiearchical clustering. Density based clustering.                                            |
 | Nov 14   | **Deadline for final project proposals**.                                                    |
 |          | Entropy and Gini. Decision trees. Random forests.                                            |
@@ -142,10 +142,11 @@ The following is a tentative schedule of topics I am going to cover. I may go fa
 | Nov 21   | **Deadline for HW3.**                                                                        |
 |          | Support Vector Machines.                                                                     |
 | Nov 28   | Dimensionality reduction. PCA, kernel PCA, LDA, NNMD.                                        |
+|          | Dimensionality reduction applications for image and natural language processing.             |
 |          | Post HW4                                                                                     |
 | Dec 5    | **Deadline for HW4.**                                                                        |
-|          | Dimensionality reduction applications for image and natural language processing.             |
-| Dec 12   | Newton-Raphson. Gradient Descent. Perceptron.                                                |
+|          | Newton-Raphson. Gradient Descent. Perceptron.                                                |
+| Dec 12   | Neural Networks                                                                              |
 | Dec 19   | A taxonomy of neural networks. Applications.                                                 |
-| Dec 26   | Autoencoders.                                                                                | 
+| Dec 29   | Autoencoders.                                                                                | 
 
