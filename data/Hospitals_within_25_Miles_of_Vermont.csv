@@ -1,0 +1,38 @@
+﻿X,Y,FID,NAME,ADDRESS,CITY,ST_ABREV,ZIP_CODE,TYPE,PHONE
+-7957676.1271,5605485.6584,1,Upper Connecticut Vly Hospital,181 Corliss Lane,Colebrook,NH,03576-9533,Critical Access,603-237-4971
+-8045521.6936,5415290.65,2,Dartmouth-Hitchcock Med Ctr,1 Medical Center Drive,Lebanon,NH,03756-0001,Level 1 Trauma,603-650-5000
+-8017600.5366,5486403.9431,3,Cottage Hospital,Swiftwater Road,Woodsville,NH,03785-2001,Critical Access,603-747-9000
+-8192820.8121,5498808.4423,4,Elizabethtown Comm Hospital,75 Park Street,Elizabethtown,NY,12932-0277,Critical Access,518-873-6377
+-8089348.1897,5319403.9887,5,Grace Cottage Hospital,185 Grafton Road,Townsend,VT,05353-0216,Critical Access,802-365-7676
+-8134455.9887,5591136.6604,6,Northwestern Medical Center,133 Fairfield Street,Saint Albans,VT,05478-1734,Hospital,802-524-5911
+-8077451.4783,5499588.17,7,Central Vermont Medical Center,130 Fisher Road,Berlin,VT,05602,Hospital,802-371-4100
+-8016066.5517,5534598.2395,8,Northeastern Vermont Reg Hosp,1315 Hospital Drive,Saint Johnsbury,VT,05819-9962,Critical Access,802-748-8141
+-8153683.4985,5231186.4272,9,Berkshire Medical Center,725 North Street,Pittsfield,MA,01201-4124,Hospital,413-447-2000
+-8138391.3772,5267313.513,10,North Adams Regional Hospital,71 Hospital Avenue,North Adams,MA,01247-2584,Hospital,413-664-5000
+-8081014.1277,5250277.6847,11,Franklin Medical Center,164 High Street,Greenfield,MA,01301-2613,Hospital,413-773-0211
+-8038260.2522,5249208.869,12,Athol Memorial Hospital,2033 Main Street,Athol,MA,01331-3598,Critical Access,978-249-3511
+-8014265.3868,5378251.0831,13,New London Hospital,273 County Road,New London,NH,03257-4570,Critical Access,603-526-2911
+-7981025.1668,5428149.9127,14,Speare Memorial Hospital,16 Hospital Road,Plymouth,NH,03264-1199,Critical Access,603-536-1120
+-8047247.3187,5304211.7972,15,Cheshire Medical Center,580 Court Street,Keene,NH,03431-1718,Hospital,603-354-5400
+-7995458.3334,5514582.918,16,Littleton Regional Hospital,600 Saint Johnsbury Road,Littleton,NH,03561-3436,Critical Access,800-464-7731
+-7921367.3684,5541297.9788,17,Androscoggin Valley Hospital,59 Page Hill Road,Berlin,NH,03570-3531,Critical Access,603-752-2200
+-7966407.8071,5541300.7816,18,Weeks Medical Center,173 Middle Street,Lancaster,NH,03584-3561,Critical Access,603-788-4911
+-8053091.8667,5370864.5401,19,Valley Regional Hospital,243 Elm Street,Claremont,NH,03743-2099,Critical Access,603-542-7771
+-8044441.1777,5409766.4597,20,Alice Peck Day Mem Hospital,125 Mascoma Street,Lebanon,NH,03766-2650,Critical Access,603-448-3121
+-8201535.0846,5273028.9723,21,Seton Health System,1300 Massachusetts Avenue,Troy,NY,12180-1695,Hospital,518-268-5000
+-8201074.5652,5271445.0852,22,Samaritan Hospital,2215 Burdett Avenue,Troy,NY,12180-2475,Hospital,518-271-3300
+-8209851.3923,5262419.8376,23,Albany Memorial Hospital,600 Northern Boulevard,Albany,NY,12204-1083,Level 1 Trauma,518-471-3221
+-8198232.3897,5358883.5406,24,Glens Falls Hospital,100 Park Street,Glens Falls,NY,12801,Hospital,518-926-1000
+-8174792.1469,5442146.2045,25,Moses Ludington Hospital,1019 Wicker Street,Ticonderoga,NY,12883-1097,Critical Access,518-585-2831
+-8178271.0462,5574445.7742,26,CVPH Medical Center,75 Beekman Street,Plattsburgh,NY,12901-1493,Hospital,518-561-2000
+-8050869.3799,5411450.1312,27,Veterans Affairs Med Center,215 North Main Street,White River Junction,VT,05009-0001,VA Hospital,802-295-9363
+-8089021.099,5453446.1465,28,Gifford Medical Center,44 South Main Street,Randolph,VT,05060-1381,Critical Access,802-728-7000
+-8059632.1887,5386478.2931,29,Mt Ascutney Hosp and Hlth Ctr,289 County Road,Windsor,VT,05089-9702,Critical Access,802-674-6711
+-8070056.8587,5357371.707,30,Springfield Hospital,25 Ridgewood Road,Springfield,VT,05156-2003,Critical Access,802-885-2151
+-8149294.5837,5292751.7938,31,Southwestern Vermont Med Cntr,100 Hospital Drive East,Bennington,VT,05201,Hospital,802-442-6361
+-8077862.5979,5287970.4694,32,Brattleboro Memorial Hospital,17 Belmont Avenue,Brattleboro,VT,05301-3498,Hospital,802-257-0341
+-8148424.6221,5540129.077,33,Fletcher Allen Health Care,111 Colchester Avenue,Burlington,VT,05401-1429,Level 1 Trauma,802-847-2700
+-8080806.9099,5551621.0248,34,Copley Hospital,528 Washington Highway,Morrisville,VT,05661-9209,Critical Access,802-888-8888
+-8122663.7724,5403224.2092,35,Rutland Regional Medical Ctr,160 Allen Street,Rutland,VT,05701-4595,Hospital,802-747-7111
+-8145273.0918,5465368.1498,36,Porter Medical Center,115 Porter Drive,Middlebury,VT,05753-8606,Critical Access,802-388-4701
+-8037298.1919,5614378.708,37,North Country Hosp & Hlth Ctr,189 Prouty Drive,Newport,VT,05855-9329,Critical Access,802-334-7331
