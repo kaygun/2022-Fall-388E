@@ -25,8 +25,8 @@ The books I listed are mostly theoretical. But for the computational homeworks y
 
 Also, there are excellent resources on the web. I would recommend:
 
-* edX: `https://edx.org`
-* MIT-X: `https://openlearning.mit.edu`
+* [edX](https://edx.org)
+* [MIT-X](https://openlearning.mit.edu)
 * Kaggle Courses on [Python](https://www.kaggle.com/learn/python), [Pandas](https://www.kaggle.com/learn/pandas), [Visualization](https://www.kaggle.com/learn/data-visualization), [Data cleaning](https://www.kaggle.com/learn/data-cleaning), and [GIS Data](https://www.kaggle.com/learn/geospatial-analysis).
 
 Enroll to any of the data, machine learning, statistics, R or python classes that catches your fancy, or you think might be useful for you.
