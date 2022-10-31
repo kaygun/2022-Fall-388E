@@ -115,7 +115,7 @@ By regulations I must give a final exam. But in the exam I will only ask you exp
 
 ## Cheating
 
-Passing someone else's code or text as your own is cheating, or worse yet, theft. Copying code with variable names changed is another lazy form of cheating. Depending on severity of the situation, I may even report you to the university. In short, don't do it.
+Passing someone else's code or text as your own is cheating, or worse yet, theft. Copying code with variable names changed is another lazy form of cheating. Cheaters will receive 0 and be reported to the university. In short, don't do it.
 
 # Weekly Course Plan
 
