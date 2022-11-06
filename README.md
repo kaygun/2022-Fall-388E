@@ -78,7 +78,7 @@ e scores.
 | **Github link**            | Sep 26   |
 | Homework 1                 | Oct 10   |
 | Homework 2                 | Oct 31   |
-| **Final Project Proposal** | Nov 7    |
+| **Final Project Proposal** | Nov 14   |
 | Homework 3                 | Nov 21   |
 | Homework 4                 | Dec 5    |
 | **Final Project**          | Dec 30   |
