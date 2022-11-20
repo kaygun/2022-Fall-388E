@@ -135,16 +135,16 @@ The following is a tentative schedule of topics I am going to cover. I may go fa
 | Oct 24   | Logistic regression. Decision tree regression.                                               |
 |          | Post HW2                                                                                     |
 | Oct 31   | **Deadline for HW2.**                                                                        |
-| Nov 14   | Hiearchical clustering. Density based clustering.                                            |
+|          | Support Vector Machines.                                                                     |
+| Nov 14   | Hiearchical clustering.                                                                      |
 |          | **Deadline for final project proposals**.                                                    |
-| Nov 21   | Entropy and Gini. Decision trees. Random forests.                                            |
+| Nov 21   | Density based clustering.                                                                    |
 |          | Post HW3                                                                                     |
 | Nov 28   | **Deadline for HW3.**                                                                        |
-|          | Support Vector Machines.                                                                     |
+|          | Entropy and Gini. Decision trees. Random forests.                                            |
 | Dec 5    | Dimensionality reduction. PCA, kernel PCA, LDA, NNMD.                                        |
-|          | Dimensionality reduction applications for image and natural language processing.             |
 |          | Post HW4                                                                                     |
-| Dec 5    | **Deadline for HW4.**                                                                        |
+| Dec 12   | **Deadline for HW4.**                                                                        |
 |          | Newton-Raphson. Gradient Descent. Perceptron. Neural Networks                                |
 | Dec 19   | A taxonomy of neural networks. Applications.                                                 |
 | Dec 29   | Autoencoders.                                                                                | 
