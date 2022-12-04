@@ -79,8 +79,8 @@ e scores.
 | Homework 1                 | Oct 10   |
 | Homework 2                 | Oct 31   |
 | **Final Project Proposal** | Nov 14   |
-| Homework 3                 | Nov 21   |
-| Homework 4                 | Dec 5    |
+| Homework 3                 | Nov 28   |
+| Homework 4                 | Dec 19   |
 | **Final Project**          | Dec 30   |
 
 There is no make-up for the homeworks. If you miss any of the homework deadline because of an emergency, do contact me to make an arrangement as soon as you can.
@@ -142,10 +142,10 @@ The following is a tentative schedule of topics I am going to cover. I may go fa
 |          | Post HW3                                                                                     |
 | Nov 28   | **Deadline for HW3.**                                                                        |
 |          | Entropy and Gini. Decision trees. Random forests.                                            |
-| Dec 5    | Dimensionality reduction. PCA, kernel PCA, LDA, NNMD.                                        |
-|          | Post HW4                                                                                     |
-| Dec 12   | **Deadline for HW4.**                                                                        |
-|          | Newton-Raphson. Gradient Descent. Perceptron. Neural Networks                                |
-| Dec 19   | A taxonomy of neural networks. Applications.                                                 |
-| Dec 29   | Autoencoders.                                                                                | 
+| Dec 5    | Newton-Raphson. Gradient Descent. Perceptron. Neural Networks                                |
+| Dec 12   | Post HW4                                                                                     |
+|          | A taxonomy of neural networks. Applications.                                                 |
+| Dec 19   | **Deadline for HW4.**                                                                        |
+|          | More on Neural Networks.                                                                     |
+| Dec 26   | Autoencoders.                                                                                | 
 
