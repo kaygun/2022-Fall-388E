@@ -1,0 +1,13 @@
+digraph cheat {
+ "Machine Learning Algorithms" -> { "Supervised", "Unsupervised" }
+ "Supervised" -> {"Classification"} -> {"Logistic Regression", "Decision Trees", "SVM", "k-NN", "NN", "Ensemble Methods"}
+ "Supervised" -> {"Continuous response"} -> {"Regression", "NN", "Ensemble Methods"}
+ "Regression" -> {"OLS", "Ridge", "Lasso", "Elastic Net"}
+ "Ensemble Methods" -> {"Random Forest", "Bagging", "Boosting Algorithms"}
+ "Boosting Algorithms" -> {"ADA Boost", "Gradient Boosting"}
+ "SVM" -> {"RBF", "Linear", "Polynomial"}
+ "Decision Trees" -> {"Entropy", "Gini"}
+ "NN" -> {"Ordinary NN", "CNN", "LSTM", "RNN"}
+ "Unsupervised" -> {"Clustering"} -> {"k-Means", "Hiearchical Clustering", "DBScan"}
+}
+
