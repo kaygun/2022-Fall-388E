@@ -146,7 +146,6 @@ The following is a tentative schedule of topics I am going to cover. I may go fa
 | Dec 12   | Post HW4                                                                                     |
 |          | A taxonomy of neural networks. Applications.                                                 |
 | Dec 19   | **Deadline for HW4.**                                                                        |
-|          | More on Neural Networks.                                                                     |
-| Dec 26   | Autoencoders.                                                                                | 
+|          | Autoencoders.                                                                                | 
 | Dec 30   | **Deadline for the Final Project**                                                           |
 
