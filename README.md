@@ -148,4 +148,5 @@ The following is a tentative schedule of topics I am going to cover. I may go fa
 | Dec 19   | **Deadline for HW4.**                                                                        |
 |          | More on Neural Networks.                                                                     |
 | Dec 26   | Autoencoders.                                                                                | 
+| Dec 30   | **Deadline for the Final Project**                                                           |
 
